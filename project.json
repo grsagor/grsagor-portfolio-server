@@ -1,5 +1,34 @@
 [
     {
-        "title": "Book Shop"
+        "_id": "01",
+        "title": "Book Shop",
+        "img": [
+            "https://i.ibb.co/X5c06Gg/1.png",
+            "https://i.ibb.co/zPcxqLt/2.png",
+            "https://i.ibb.co/J29zQLD/3.png"
+        ],
+        "thumbnail": "https://i.ibb.co/NLcqMVc/book-shop-thumbnail.jpg"
+    },
+
+    {
+        "_id": "02",
+        "title": "University Of Music",
+        "img": [
+            "https://i.ibb.co/9GcVwjp/1.png",
+            "https://i.ibb.co/hL2zLQK/2.png",
+            "https://i.ibb.co/J2LFVVL/3.png"
+        ],
+        "thumbnail": "https://i.ibb.co/z8M99sS/uom-1670763363781.jpg"
+    },
+
+    {
+        "_id": "03",
+        "title": "C School",
+        "img": [
+            "https://i.ibb.co/71Bk6gv/1.png",
+            "https://i.ibb.co/VjWMqdg/2.png",
+            "https://i.ibb.co/b3847xs/3.png"
+        ],
+        "thumbnail": "https://i.ibb.co/9ZCR3nb/c-school-thumbnail.jpg"
     }
 ]
